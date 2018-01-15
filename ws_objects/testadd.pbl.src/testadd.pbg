@@ -3,4 +3,5 @@
  "testadd.pbl" "";
 @end;
 @begin Objects 
+ "nvo_test1.sru" "testadd.pbl";
 @end;
