@@ -5,7 +5,11 @@ end type
 end forward
 
 global type nvo_test1 from nonvisualobject autoinstantiate
+event ue_test1 ( )
 end type
+
+event ue_test1();//
+end event
 
 on nvo_test1.create
 call super::create
